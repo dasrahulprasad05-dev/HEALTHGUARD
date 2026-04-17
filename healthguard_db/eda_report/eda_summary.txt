@@ -1,0 +1,36 @@
+
+HealthGuard — EDA Summary
+=========================
+
+HEART DISEASE (297 samples, 14 features)
+  Positive cases : 137 (46.1%)
+  Avg age        : 54.5 years
+  Avg cholesterol: 247.4
+  Missing values : 0
+
+DIABETES (768 samples, 11 features)
+  Positive cases : 268 (34.9%)
+  Avg glucose    : 120.9
+  Avg BMI        : 32.0
+  Missing values : 0
+
+KIDNEY DISEASE (400 samples, 24 features)
+  CKD cases      : 250 (62.5%)
+  Avg age        : 51.5 years
+  Missing values : 1009
+
+GRAPHS GENERATED (14 total):
+  01_target_distribution.png
+  02_heart_feature_distributions.png
+  03_heart_correlation_heatmap.png
+  04_heart_risk_factors.png
+  05_diabetes_feature_distributions.png
+  06_diabetes_correlation_heatmap.png
+  07_diabetes_relationships.png
+  08_kidney_missing_values.png
+  09_kidney_feature_distributions.png
+  10_kidney_categorical_features.png
+  11_outlier_detection_boxplots.png
+  12_summary_dashboard.png
+  13_heart_pairplot.png
+  14_diabetes_glucose_bmi_deepdive.png
